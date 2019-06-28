@@ -27,5 +27,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-math.sqrt("#{num}".to_i)
+x = "#{num}".to_i
+math.sqrt x
 end
