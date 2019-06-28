@@ -28,5 +28,5 @@ end
 
 def square_root(num)
 x = "#{num}".to_i
-math.sqrt x
+Math.sqrt x
 end
