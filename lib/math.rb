@@ -23,7 +23,7 @@ x*y
 end
 
 def modulo(num1, num2)
-
+x = "#{num1}".to_i
 end
 
 def square_root(num)
