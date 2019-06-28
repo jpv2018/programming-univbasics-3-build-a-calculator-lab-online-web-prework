@@ -1,6 +1,6 @@
 def addition(num1, num2)
-x = "#{num1}"
-y = "#{num2}"
+x = "#{num1}".to_i
+y = "#{num2}".to_i
 x+y
 end
 
